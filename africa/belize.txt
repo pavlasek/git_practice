@@ -1,1 +1,3 @@
-Ahol Laurinečko
+This is simple text added to belize.txt
+
+
